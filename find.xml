@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'RegularExpression'" />
-    <option name="defaultScopeName" value="Project 'RegularExpression'" />
-    <option name="SEARCH_SCOPE" value="Project 'RegularExpression'" />
+    <option name="customScope" value="Directory '~/PycharmProjects/ProxyPool [ProxyPool]'" />
+    <option name="defaultScopeName" value="Directory '~/PycharmProjects/ProxyPool [ProxyPool]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/PycharmProjects/ProxyPool [ProxyPool]'" />
   </component>
 </application>
