@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping pattern="interaction" type="Python" />
     </extensionMap>
   </component>
